@@ -1,0 +1,101 @@
+artist,track_name,track_id,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,artist_pop,genres,track_pop,genres_list,subjectivity,polarity
+ROLE MODEL,forever&more,0UMFm4ndFr3PH5VsVYnCNG,0.694,0.637,9,-5.896,1,0.0806,0.298,9.69e-06,0.123,0.506,83.982,56,alt_z bedroom_pop pov:_indie,0,"['alt_z', 'bedroom_pop', 'pov:_indie']",low,neutral
+ROLE MODEL,hello!,7a2IJHzw9WJjoknwdnCop0,0.791,0.462,10,-4.023,1,0.0383,0.505,0.0,0.0991,0.556,125.913,56,alt_z bedroom_pop pov:_indie,57,"['alt_z', 'bedroom_pop', 'pov:_indie']",low,neutral
+ROLE MODEL,gucci chair,0GD2v2Gl24z7F6bLl4fn7M,0.368,0.469,1,-7.8,0,0.0346,0.304,0.0164,0.107,0.129,150.447,56,alt_z bedroom_pop pov:_indie,36,"['alt_z', 'bedroom_pop', 'pov:_indie']",low,neutral
+ROLE MODEL,that's just how it goes,4J4rJEaVpgr2tHwX6Jd13H,0.778,0.629,7,-5.011,0,0.031,0.189,0.000293,0.149,0.48,108.023,56,alt_z bedroom_pop pov:_indie,53,"['alt_z', 'bedroom_pop', 'pov:_indie']",low,neutral
+ROLE MODEL,notice me (feat. BENEE),3WowsoNoWeMqTH2suWv9MW,0.72,0.481,8,-6.516,0,0.0432,0.136,0.0034,0.301,0.253,126.005,56,alt_z bedroom_pop pov:_indie,55,"['alt_z', 'bedroom_pop', 'pov:_indie']",low,neutral
+ROLE MODEL,say it first,0XSncrobBZoW1A0bFh8Ttx,0.799,0.398,9,-5.838,1,0.0445,0.142,0.0,0.107,0.388,93.933,56,alt_z bedroom_pop pov:_indie,46,"['alt_z', 'bedroom_pop', 'pov:_indie']",medium,positive
+ROLE MODEL,thank you for coming,6QHHQuaCoTEb5KBAMhruDI,0.71,0.574,9,-6.821,0,0.0241,0.431,0.00419,0.286,0.504,99.968,56,alt_z bedroom_pop pov:_indie,37,"['alt_z', 'bedroom_pop', 'pov:_indie']",low,neutral
+ROLE MODEL,minimal,28sNP4vXS6EtFr2VKPhCTQ,0.575,0.679,1,-4.442,1,0.0432,0.547,0.0,0.34,0.204,169.886,56,alt_z bedroom_pop pov:_indie,52,"['alt_z', 'bedroom_pop', 'pov:_indie']",high,negative
+ROLE MODEL,six speed,3pU68iUbatcIjQD7PlIzFX,0.518,0.183,0,-10.246,1,0.043,0.887,0.0,0.108,0.106,109.011,56,alt_z bedroom_pop pov:_indie,44,"['alt_z', 'bedroom_pop', 'pov:_indie']",low,neutral
+ROLE MODEL,girl in new york,6APTEV2EIRpBEvuTrS5XTv,0.621,0.555,9,-7.854,1,0.0299,0.0405,0.152,0.111,0.0817,92.031,56,alt_z bedroom_pop pov:_indie,53,"['alt_z', 'bedroom_pop', 'pov:_indie']",high,positive
+Dayglow,Can I Call You Tonight?,64lsIF5pw0sJY0gV5kz0RN,0.641,0.842,9,-7.27,1,0.0292,0.132,0.91,0.419,0.5,129.98,64,austindie indie_rock pov:_indie,25,"['austindie', 'indie_rock', 'pov:_indie']",low,neutral
+Dayglow,Hot Rod,0zePbRMJ9sd7wsZRlbPQua,0.707,0.767,7,-7.072,1,0.0323,0.0279,0.000295,0.169,0.832,139.985,64,austindie indie_rock pov:_indie,2,"['austindie', 'indie_rock', 'pov:_indie']",high,positive
+Dayglow,Fuzzybrain,57HJa4ktE7iHGrbFhwzEr2,0.488,0.51,7,-8.367,1,0.026,0.0233,0.15,0.143,0.368,104.959,64,austindie indie_rock pov:_indie,0,"['austindie', 'indie_rock', 'pov:_indie']",low,neutral
+Cannons,Fire for You,4o0LyB69tylqDG6eTGhmig,0.737,0.678,6,-7.011,0,0.0962,0.114,0.157,0.123,0.698,102.051,61,unknown,72,['unknown'],low,neutral
+Glass Animals,Heat Waves,6CDzDgIUqeDY5g8ujExx2f,0.761,0.525,11,-6.9,1,0.0944,0.44,6.7e-06,0.0921,0.531,80.87,74,gauze_pop indietronica modern_rock pov:_indie shiver_pop,28,"['gauze_pop', 'indietronica', 'modern_rock', 'pov:_indie', 'shiver_pop']",low,neutral
+Foster The People,Pumped Up Kicks,7w87IxuO7BDcJ3YUqCyMTT,0.733,0.71,5,-5.849,0,0.0292,0.145,0.115,0.0956,0.965,127.975,70,indietronica modern_alternative_rock modern_rock rock,85,"['indietronica', 'modern_alternative_rock', 'modern_rock', 'rock']",low,neutral
+Of Monsters and Men,Little Talks,2ihCaVdNZmnHZWt0fvAM7B,0.457,0.757,1,-5.177,1,0.032,0.0206,0.0,0.146,0.417,102.961,67,folk-pop metropopolis modern_rock stomp_and_holler,81,"['folk-pop', 'metropopolis', 'modern_rock', 'stomp_and_holler']",high,negative
+Alec Benjamin,If We Have Each Other,7pT6WSg4PCt4mr5ZFyUfsF,0.656,0.577,10,-5.566,0,0.0802,0.698,0.0,0.296,0.861,173.094,74,alt_z pop pov:_indie,78,"['alt_z', 'pop', 'pov:_indie']",high,negative
+Alec Benjamin,Water Fountain,4IhKLu7Vk3j2TLmnFPl6To,0.723,0.504,8,-5.572,1,0.0392,0.388,7.4e-05,0.087,0.551,133.975,74,alt_z pop pov:_indie,77,"['alt_z', 'pop', 'pov:_indie']",low,neutral
+Alec Benjamin,Annabelle's Homework,0DYRjWiFJHvLjxRrywtltC,0.676,0.634,8,-5.377,1,0.0385,0.701,1.63e-06,0.223,0.33,86.004,74,alt_z pop pov:_indie,55,"['alt_z', 'pop', 'pov:_indie']",low,neutral
+Alec Benjamin,Let Me Down Slowly,2qxmye6gAegTMjLKEBoR3d,0.652,0.557,1,-5.714,0,0.0318,0.74,0.0,0.124,0.483,150.073,74,alt_z pop pov:_indie,86,"['alt_z', 'pop', 'pov:_indie']",high,negative
+Alec Benjamin,Boy In The Bubble,60cYr5uuMoxvyuIx45rGEW,0.817,0.578,11,-7.579,0,0.0824,0.224,0.00103,0.251,0.851,143.982,74,alt_z pop pov:_indie,69,"['alt_z', 'pop', 'pov:_indie']",low,neutral
+Alec Benjamin,Steve,211LaT5hzPOKolVtgzwWnq,0.348,0.353,10,-9.012,1,0.0334,0.845,0.0,0.181,0.866,80.558,74,alt_z pop pov:_indie,53,"['alt_z', 'pop', 'pov:_indie']",low,neutral
+Alec Benjamin,If I Killed Someone For You,0WHi11uzahqpEtPGYCW6oQ,0.514,0.605,7,-5.363,1,0.0337,0.774,2.91e-06,0.121,0.409,120.894,74,alt_z pop pov:_indie,72,"['alt_z', 'pop', 'pov:_indie']",low,negative
+Alec Benjamin,1994,5Ys68FZdQFcFw7IgkANVoM,0.772,0.613,8,-6.185,1,0.0692,0.281,3.52e-06,0.206,0.862,87.022,74,alt_z pop pov:_indie,55,"['alt_z', 'pop', 'pov:_indie']",low,neutral
+Alec Benjamin,Must Have Been The Wind,6lERHAmBCZmgODv3OYENXi,0.653,0.644,7,-6.204,1,0.0572,0.784,0.000202,0.161,0.363,88.968,74,alt_z pop pov:_indie,63,"['alt_z', 'pop', 'pov:_indie']",low,neutral
+Crowded House,Don't Dream It's Over,7G7tgVYORlDuVprcYHuFJh,0.439,0.422,8,-17.227,1,0.0409,0.0148,4.84e-05,0.0697,0.551,81.833,64,australian_rock permanent_wave,77,"['australian_rock', 'permanent_wave']",low,neutral
+Panic! At The Disco,Dying in LA,18xmRkPWE0sGUzFyNNAAhN,0.346,0.35,2,-4.988,1,0.0328,0.876,1.98e-06,0.0708,0.315,126.444,76,pop,55,['pop'],low,neutral
+The Lumineers,Ophelia,3d8y0t70g7hw2FOWl9Z4Fm,0.664,0.573,5,-6.519,1,0.0277,0.613,0.000363,0.0857,0.566,76.023,77,folk-pop modern_rock stomp_and_holler,78,"['folk-pop', 'modern_rock', 'stomp_and_holler']",low,neutral
+The Lumineers,Ho Hey,0W4Kpfp1w2xkY3PrV714B7,0.685,0.466,0,-9.074,1,0.0304,0.794,2.06e-06,0.0915,0.353,79.936,77,folk-pop modern_rock stomp_and_holler,78,"['folk-pop', 'modern_rock', 'stomp_and_holler']",low,neutral
+The Lumineers,Stubborn Love,3ekNuTF3UpOvIZCfiejpnC,0.598,0.56,0,-11.679,1,0.0375,0.607,0.0432,0.196,0.221,115.01,77,folk-pop modern_rock stomp_and_holler,73,"['folk-pop', 'modern_rock', 'stomp_and_holler']",high,positive
+The Lumineers,Salt And The Sea,5EKqsMU2tn1iAYNQF8h0ll,0.63,0.31,9,-9.253,1,0.028,0.704,0.0011,0.128,0.0712,93.067,77,folk-pop modern_rock stomp_and_holler,60,"['folk-pop', 'modern_rock', 'stomp_and_holler']",low,neutral
+The Lumineers,Cleopatra,2ToW7zhGCrVrLU4fiKj9U1,0.536,0.775,8,-6.765,1,0.0394,0.228,0.000143,0.0947,0.485,151.393,77,folk-pop modern_rock stomp_and_holler,73,"['folk-pop', 'modern_rock', 'stomp_and_holler']",low,neutral
+The Lumineers,Life In The City,5WyL4ZuwJ06qVd8X5bf2b5,0.743,0.57,0,-7.376,1,0.0335,0.506,5.18e-05,0.0994,0.273,97.005,77,folk-pop modern_rock stomp_and_holler,56,"['folk-pop', 'modern_rock', 'stomp_and_holler']",low,neutral
+Coyote Theory,This Side of Paradise,79EkGysjP2dL5GdpeQjRxT,0.306,0.664,9,-6.07,1,0.0276,0.432,7.5e-06,0.135,0.321,158.283,61,unknown,80,['unknown'],low,neutral
+Lana Del Rey,Venice Bitch,3hwQhakFwm9soLEBnSDH17,0.368,0.286,9,-13.031,0,0.0294,0.913,0.177,0.099,0.312,77.826,90,art_pop pop,70,"['art_pop', 'pop']",low,neutral
+Lana Del Rey,Love song,5tyMJlMqaggzvuX7TtlrTe,0.384,0.0701,9,-16.512,1,0.0367,0.966,0.00017,0.0805,0.288,63.425,90,art_pop pop,70,"['art_pop', 'pop']",high,positive
+Lana Del Rey,Cinnamon Girl,2mdEsXPu8ZmkHRRtAdC09e,0.294,0.337,6,-10.614,0,0.036,0.814,0.414,0.14,0.135,91.781,90,art_pop pop,85,"['art_pop', 'pop']",low,neutral
+Lana Del Rey,California,7oTE1KmtU2ml9zBhv9Reao,0.449,0.41,9,-8.067,0,0.0317,0.761,0.0,0.0631,0.195,123.758,90,art_pop pop,68,"['art_pop', 'pop']",low,neutral
+Lana Del Rey,The greatest,6ERZ30cRjVWGtVLhczX9aL,0.443,0.226,2,-12.507,0,0.0359,0.939,0.0201,0.14,0.196,79.142,90,art_pop pop,68,"['art_pop', 'pop']",high,positive
+Lana Del Rey,Happiness is a butterfly,3lG6OtGDsYAOALxEmubQQm,0.467,0.119,2,-10.99,1,0.0401,0.969,1.4e-06,0.0973,0.156,70.499,90,art_pop pop,79,"['art_pop', 'pop']",low,positive
+Lana Del Rey,hope is a dangerous thing for a woman like me to have - but I have it,0fB77VOZ2FkQeKLv1DuEwp,0.49,0.104,4,-13.208,0,0.0635,0.964,0.0,0.162,0.278,86.675,90,art_pop pop,69,"['art_pop', 'pop']",high,negative
+Lana Del Rey,Beautiful,5uPpzqixdzAMXprr4P5aT5,0.552,0.202,6,-10.685,1,0.043,0.96,0.00154,0.225,0.237,78.021,90,art_pop pop,58,"['art_pop', 'pop']",high,positive
+Lana Del Rey,Love,2Kerz9H9IejzeIpjhDJoYG,0.527,0.366,10,-10.943,1,0.0277,0.487,0.0023,0.11,0.234,98.994,90,art_pop pop,71,"['art_pop', 'pop']",high,positive
+Lana Del Rey,Lust For Life (with The Weeknd),0mt02gJ425Xjm7c3jYkOBn,0.504,0.655,0,-8.644,0,0.0542,0.604,0.00193,0.364,0.262,99.982,90,art_pop pop,74,"['art_pop', 'pop']",low,neutral
+Lana Del Rey,Chemtrails Over The Country Club,7bPWdJgx8vek7S5i5yAtvG,0.334,0.276,4,-13.125,0,0.0643,0.877,0.000249,0.113,0.429,201.025,90,art_pop pop,77,"['art_pop', 'pop']",low,neutral
+Lana Del Rey,Brooklyn Baby,1NZs6n6hl8UuMaX0UC0YTz,0.404,0.664,1,-6.698,1,0.0407,0.542,0.00402,0.11,0.0949,107.747,90,art_pop pop,83,"['art_pop', 'pop']",low,neutral
+Lana Del Rey,Money Power Glory,7Ms58r8G6Y0r1XLtpwoGxN,0.349,0.525,8,-6.829,0,0.0451,0.583,0.0,0.35,0.288,136.762,90,art_pop pop,68,"['art_pop', 'pop']",low,neutral
+Lana Del Rey,Fucked My Way Up To The Top,70Laus6ozJIHDpfTtUSmAZ,0.52,0.69,5,-5.919,1,0.0554,0.601,0.201,0.137,0.182,129.839,90,art_pop pop,66,"['art_pop', 'pop']",high,negative
+Lana Del Rey,Florida Kilos,0iQPnK3bi7O27c5T2HBTdr,0.266,0.513,0,-7.852,1,0.0388,0.28,5.98e-05,0.11,0.579,200.781,90,art_pop pop,68,"['art_pop', 'pop']",low,neutral
+Lana Del Rey,Old Money,6IfPyMb0Sxptpx6jBUATOS,0.312,0.168,10,-12.476,0,0.0332,0.888,6.59e-06,0.147,0.154,108.115,90,art_pop pop,69,"['art_pop', 'pop']",low,positive
+Lana Del Rey,The Blackest Day,45pI8224KKX9Gx5fiyvEAh,0.445,0.522,2,-8.007,1,0.0331,0.363,0.000487,0.0797,0.162,107.752,90,art_pop pop,71,"['art_pop', 'pop']",low,neutral
+Lana Del Rey,Born To Die,3eRZZ4d2RJSqFKzP7tSdFE,0.18,0.636,4,-6.591,0,0.0438,0.209,0.000133,0.217,0.39,75.632,90,art_pop pop,57,"['art_pop', 'pop']",low,neutral
+Lana Del Rey,Off To The Races,7grzMnF1FHponm2aJBWj8E,0.4,0.722,4,-5.566,0,0.062,0.061,0.00171,0.4,0.136,160.065,90,art_pop pop,53,"['art_pop', 'pop']",low,neutral
+Lana Del Rey,Video Games,5by7gtiDrxe4n2qQQunL8S,0.39,0.255,6,-9.676,0,0.0299,0.806,1.14e-06,0.0887,0.179,122.056,90,art_pop pop,55,"['art_pop', 'pop']",low,neutral
+Lana Del Rey,Dark Paradise,0rbuGVyW18IpX0bhA3P4Oh,0.586,0.641,1,-8.342,0,0.0634,0.12,0.0,0.168,0.402,120.015,90,art_pop pop,51,"['art_pop', 'pop']",high,negative
+Lana Del Rey,Radio,45dAw6GXEsogcDF3NUgj3O,0.312,0.841,2,-5.244,1,0.0846,0.217,2.38e-05,0.0876,0.185,75.112,90,art_pop pop,56,"['art_pop', 'pop']",low,neutral
+Lana Del Rey,Carmen,0LKYAQdeUDxqqL4O6qUzsD,0.487,0.426,1,-9.56,0,0.0317,0.0879,0.000392,0.128,0.0376,100.056,90,art_pop pop,49,"['art_pop', 'pop']",low,neutral
+Lana Del Rey,Summertime Sadness,4cKtn8Shw999egpwBmWQmp,0.565,0.647,1,-6.789,0,0.0334,0.0456,0.0,0.121,0.216,111.931,90,art_pop pop,52,"['art_pop', 'pop']",low,neutral
+lovelytheband,broken,6XcfKZvJio9Z0fQy11GnNX,0.666,0.728,7,-5.808,1,0.0419,0.00175,4.26e-06,0.0429,0.51,122.996,57,modern_alternative_rock pov:_indie,69,"['modern_alternative_rock', 'pov:_indie']",high,negative
+GROUPLOVE,Tongue Tied,0GO8y8jQk1PkHzS31d699N,0.56,0.936,3,-5.835,1,0.0439,0.00847,0.0,0.161,0.371,112.96,63,indie_rock la_indie modern_alternative_rock modern_rock pov:_indie shimmer_pop,80,"['indie_rock', 'la_indie', 'modern_alternative_rock', 'modern_rock', 'pov:_indie', 'shimmer_pop']",low,neutral
+5 Seconds of Summer,Ghost Of You,1MhXdlCQPnO56T57MfmaRm,0.458,0.561,10,-4.819,1,0.0269,0.0965,0.0,0.156,0.206,149.875,77,boy_band pop,74,"['boy_band', 'pop']",low,neutral
+Cigarettes After Sex,Apocalypse,3AVrVz5rK8Hrqo9YGiVGN5,0.369,0.467,5,-9.018,1,0.0274,0.0194,0.46,0.109,0.174,94.473,80,ambient_pop dream_pop el_paso_indie shoegaze,78,"['ambient_pop', 'dream_pop', 'el_paso_indie', 'shoegaze']",low,neutral
+BETWEEN FRIENDS,affection,2lTtnKQgjbrBA1qnOFhBkP,0.273,0.565,2,-7.283,1,0.248,0.516,1.68e-06,0.0855,0.298,179.518,57,indie_pop la_pop pov:_indie,1,"['indie_pop', 'la_pop', 'pov:_indie']",low,neutral
+Cigarettes After Sex,Affection,4eVNSHRazoHgfYGv3AYFyZ,0.415,0.425,7,-11.232,1,0.025,0.497,0.908,0.105,0.248,89.839,80,ambient_pop dream_pop el_paso_indie shoegaze,55,"['ambient_pop', 'dream_pop', 'el_paso_indie', 'shoegaze']",low,neutral
+Famy,Ava,05YoWLFjHU9qc4tXcCqtLW,0.419,0.791,0,-5.288,1,0.0381,0.0704,0.00399,0.0812,0.379,155.984,54,unknown,0,['unknown'],low,neutral
+Conan Gray,Heather,4xqrdfXkTW4T0RauPLv3WA,0.357,0.425,5,-7.301,1,0.0333,0.584,0.0,0.322,0.27,102.078,78,bedroom_pop pop pov:_indie,87,"['bedroom_pop', 'pop', 'pov:_indie']",low,neutral
+Conan Gray,Maniac,6KfoDhO4XUWSbnyKjNp9c4,0.628,0.639,8,-5.46,1,0.0435,0.00162,0.0,0.354,0.493,108.045,78,bedroom_pop pop pov:_indie,80,"['bedroom_pop', 'pop', 'pov:_indie']",low,neutral
+Conan Gray,People Watching,4JeOesjcWWlprTAvucDSJX,0.53,0.593,5,-7.286,1,0.0545,0.385,0.0,0.314,0.538,125.723,78,bedroom_pop pop pov:_indie,67,"['bedroom_pop', 'pop', 'pov:_indie']",low,neutral
+Conan Gray,Telepath,3Z39gbqdaGL3WJXBG0gcuE,0.606,0.819,9,-4.804,1,0.049,0.00298,0.0,0.0702,0.744,75.006,78,bedroom_pop pop pov:_indie,66,"['bedroom_pop', 'pop', 'pov:_indie']",low,neutral
+Conan Gray,Generation Why,79e2GU4RLPjAqnijfvsXYr,0.561,0.684,9,-8.235,1,0.0669,0.347,2.93e-06,0.122,0.528,81.977,78,bedroom_pop pop pov:_indie,62,"['bedroom_pop', 'pop', 'pov:_indie']",low,neutral
+Conan Gray,Crush Culture,2sHwSBNDZN2yjCtgwStYt1,0.522,0.765,0,-5.395,1,0.193,0.146,0.0,0.0866,0.455,180.065,78,bedroom_pop pop pov:_indie,69,"['bedroom_pop', 'pop', 'pov:_indie']",low,neutral
+Conan Gray,Wish You Were Sober,0kn2gu8Pd03DiYHzRvX2Xk,0.701,0.728,2,-5.226,1,0.0468,0.0178,0.0,0.17,0.696,91.071,78,bedroom_pop pop pov:_indie,76,"['bedroom_pop', 'pop', 'pov:_indie']",low,positive
+Various Artists,Crush Culture,2A8HqRdelOG4ugnhrU556O,0.521,0.766,0,-5.395,1,0.169,0.146,0.0,0.0866,0.46,180.081,78,bedroom_pop pop pov:_indie,0,"['bedroom_pop', 'pop', 'pov:_indie']",low,neutral
+Fitz and The Tantrums,Out of My League,2AYEOC02WLhUiOoaig2SEH,0.545,0.968,9,-3.553,0,0.0853,0.0387,0.00325,0.331,0.527,169.965,65,la_indie modern_alternative_rock modern_rock pop_rock pov:_indie,74,"['la_indie', 'modern_alternative_rock', 'modern_rock', 'pop_rock', 'pov:_indie']",low,neutral
+WONWOO,Bittersweet (feat. LeeHi),347PJwH4XqRbeaKaIW9sX3,0.824,0.68,10,-6.331,0,0.0425,0.425,0.0,0.0849,0.772,110.077,48,unknown,69,['unknown'],low,neutral
+MGMT,Kids,1jJci4qxiYcOHhQR247rEU,0.451,0.931,9,-3.871,1,0.0719,0.00076,0.0049,0.361,0.172,122.961,72,alternative_rock indie_rock indietronica modern_rock rock,78,"['alternative_rock', 'indie_rock', 'indietronica', 'modern_rock', 'rock']",low,neutral
+Halsey,Bad At Love,7y9iMe8SOB6z3NoHE2OfXl,0.675,0.751,0,-3.539,1,0.0296,0.0604,0.0,0.0893,0.612,118.384,81,electropop etherpop indie_poptimism pop,75,"['electropop', 'etherpop', 'indie_poptimism', 'pop']",high,negative
+Huddy,America's Sweetheart,3rJHx4kzPVlNPatZD3lVhK,0.589,0.438,1,-7.431,0,0.0277,0.573,0.0,0.128,0.0752,127.329,46,social_media_pop,0,['social_media_pop'],low,neutral
+Huddy,America's Sweetheart - Acoustic,3s8Ria9nqj00rXvMXBzbz5,0.632,0.38,4,-8.424,1,0.0273,0.779,0.0,0.108,0.217,128.035,46,social_media_pop,28,['social_media_pop'],low,neutral
+The Rose,She′s In The Rain,2I0LNCqlQpAPJlwOEWaefE,0.507,0.533,3,-4.396,1,0.0264,0.379,0.0,0.0771,0.429,92.916,66,k-pop k-pop_boy_group,0,"['k-pop', 'k-pop_boy_group']",low,neutral
+The Rose,Take Me Down,410SxKCcT9mo460XFLpbNt,0.44,0.705,2,-4.364,1,0.0334,0.298,0.0,0.302,0.376,89.044,66,k-pop k-pop_boy_group,0,"['k-pop', 'k-pop_boy_group']",low,negative
+The Rose,Insomnia,1yiNT3F6TUvZ7XV7xWvu8o,0.331,0.517,3,-4.353,1,0.0335,0.598,0.0,0.195,0.361,74.062,66,k-pop k-pop_boy_group,0,"['k-pop', 'k-pop_boy_group']",low,neutral
+The Rose,I.L.Y.,3XE1R53gdbfHjLNa8hJ8hr,0.627,0.405,6,-7.335,1,0.0339,0.666,1.55e-06,0.112,0.187,137.67,66,k-pop k-pop_boy_group,0,"['k-pop', 'k-pop_boy_group']",low,neutral
+The Rose,Candy (so good),0ZOwwZlgXTvS0ybhhNhsht,0.658,0.776,5,-5.377,1,0.05,0.305,7.68e-05,0.161,0.684,115.94,66,k-pop k-pop_boy_group,0,"['k-pop', 'k-pop_boy_group']",high,positive
+The Rose,BABY,2xzCH9be8QS7WTuboq1s3n,0.651,0.804,11,-5.416,0,0.124,0.0337,0.0,0.119,0.518,121.758,66,k-pop k-pop_boy_group,0,"['k-pop', 'k-pop_boy_group']",low,neutral
+The Rose,sorry,62lzOPP2ZTebFoztZZcm7X,0.388,0.642,10,-4.659,1,0.0337,0.471,0.0,0.306,0.402,173.61,66,k-pop k-pop_boy_group,0,"['k-pop', 'k-pop_boy_group']",high,negative
+The Rose,Like We Used To,04RRoZHeGA7W1XMhECZEIK,0.636,0.495,2,-5.709,1,0.0294,0.353,0.0,0.832,0.516,97.898,66,k-pop k-pop_boy_group,0,"['k-pop', 'k-pop_boy_group']",low,neutral
+The Rose,Sorry,7zmrZMinkTMJ2kZgM9Kqgp,0.388,0.642,10,-4.659,1,0.0337,0.471,0.0,0.306,0.402,173.61,66,k-pop k-pop_boy_group,0,"['k-pop', 'k-pop_boy_group']",high,negative
+The Rose,California,0yqaqKP5m4udAmyOH8KS9G,0.588,0.793,1,-2.293,0,0.0444,0.12,0.0,0.399,0.586,104.738,66,k-pop k-pop_boy_group,0,"['k-pop', 'k-pop_boy_group']",low,neutral
+The Rose,RED,1JsBcVdlKZJmDPJWu4wJPC,0.623,0.743,8,-2.26,1,0.0353,0.224,0.0,0.0914,0.52,128.07,66,k-pop k-pop_boy_group,0,"['k-pop', 'k-pop_boy_group']",low,neutral
+The Rose,Strangers,06Xf2PIQSPZ0Eqz8Cd5DB6,0.491,0.796,1,-3.868,0,0.05,0.0684,0.000939,0.0966,0.342,152.092,66,k-pop k-pop_boy_group,46,"['k-pop', 'k-pop_boy_group']",low,neutral
+The Rose,with you,4epozEKOwPtszj2zaKeVIP,0.76,0.328,3,-9.781,1,0.0349,0.919,0.00817,0.13,0.297,122.025,66,k-pop k-pop_boy_group,51,"['k-pop', 'k-pop_boy_group']",low,neutral
+Various Artists,ILYSB,2k5PT7lJxuJ1prVA5R3C5x,0.355,0.349,5,-8.028,1,0.0518,0.684,4.67e-06,0.111,0.108,81.299,0,korean_superband,0,['korean_superband'],low,neutral
+DAY6,You Were Beautiful,71WZ7yFuwxmQz5jJUpvkGv,0.458,0.617,5,-3.464,0,0.0331,0.0649,0.0,0.109,0.418,167.925,61,k-pop k-pop_boy_group,24,"['k-pop', 'k-pop_boy_group']",high,positive
+WOOSUNG,You Make Me Back,1cwHRnup3iQoGAzUDwXQsh,0.536,0.507,3,-6.204,0,0.0276,0.554,7.03e-05,0.0599,0.344,110.056,58,k-pop korean_ost,6,"['k-pop', 'korean_ost']",low,neutral
+WOOSUNG,FACE,1cBdZdp3VuzMc0gsWSGQvy,0.954,0.356,6,-6.213,0,0.0967,0.0949,0.0,0.0581,0.513,113.034,58,k-pop korean_ost,0,"['k-pop', 'korean_ost']",low,neutral
+WOOSUNG,Beautiful Girl,5y3iGBS4FnaAF75VF9It5b,0.744,0.771,1,-3.936,0,0.0732,0.419,0.0,0.182,0.524,102.945,58,k-pop korean_ost,0,"['k-pop', 'korean_ost']",high,positive
+Lorde,Team,3G6hD9B2ZHOsgf4WfNu7X1,0.69,0.578,6,-7.436,1,0.0929,0.167,0.0,0.305,0.416,99.961,75,art_pop metropopolis nz_pop pop,80,"['art_pop', 'metropopolis', 'nz_pop', 'pop']",low,neutral
+Sasha Alex Sloan,Dancing With Your Ghost,1TQXIltqoZ5XXyfCbAeSQQ,0.629,0.328,11,-8.284,1,0.029,0.768,2.5e-05,0.103,0.389,74.953,68,alt_z,80,['alt_z'],low,neutral
